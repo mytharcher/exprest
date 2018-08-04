@@ -1,0 +1,20 @@
+{
+  "name": "exprest",
+  "version": "0.0.1-alpha",
+  "description": "Express based RESTful web API framework.",
+  "main": "index.js",
+  "keywords": [
+    "Node.js",
+    "Express",
+    "RESTful",
+    "API",
+    "framework"
+  ],
+  "author": "mytharcher",
+  "license": "MIT",
+  "peerDependencies": {
+    "express": ">=4",
+    "express-validation": ">=1",
+    "sequelize": "*"
+  }
+}
